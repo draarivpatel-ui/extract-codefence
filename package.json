@@ -1,6 +1,10 @@
 {
   "name": "extract-codefence",
   "version": "0.0.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tscircuit/extract-codefence"
+  },
   "description": "A utility to extract code from codefence blocks",
   "main": "dist/index.js",
   "module": "dist/index.js",
